@@ -56,5 +56,3 @@ Replace `your_image_or_video_path` with the path to your input image or video.
 ## References
 - NVIDIA L4T ML: [Documentation](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/l4t-ml)
 - Ultralytics YOLOv8: [GitHub](https://github.com/ultralytics/ultralytics)
-
-For issues or feature requests, please contact [Amir Hossein Mehdikhani](mailto:amirhossein@example.com).
