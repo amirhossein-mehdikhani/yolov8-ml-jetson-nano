@@ -1,5 +1,5 @@
 
-# ML for Jetson Nano Docker Image
+# ML and YOLOv8 for Jetson Nano Docker Image
 
 This repository hosts the Docker image `amirhosseinmehdikhani/ml-jetson-nano`, based on NVIDIA’s **L4T ML** image tailored for the Jetson Nano platform. It includes **Ultralytics YOLOv8 (v8.0.208)** for state-of-the-art object detection and AI tasks.
 
